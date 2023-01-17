@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <span>Luis Alberto Valle Espinoza</span>
         </a>
       </header>
     </div>
